@@ -1,5 +1,7 @@
-# App_List_GitHub
-Clone da Home do Disney+ com React Native
+# A
+Calculadora-React-native
+
+Clone da Calculadora do iPhone com React Native
 
 # Passo 1
 Clone o repositório 
