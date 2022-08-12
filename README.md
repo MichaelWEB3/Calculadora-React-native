@@ -1,5 +1,4 @@
-# A
-Calculadora-React-native
+# A Calculadora-React-native
 
 Clone da Calculadora do iPhone com React Native
 
